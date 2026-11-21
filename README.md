@@ -1,5 +1,7 @@
 # ml-recommendation-engine-hybrid
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 **Real** hybrid recommendation engine (rebuilt 2026-09-24 — the previous version
 was a simulated-inference stub and has been deleted). Trains genuine matrix
 factorization with SGD in **pure numpy** (no torch):
